@@ -1,4 +1,4 @@
-let plorp = ["aaaaa", "bbbbbbb", "cccccccc", "ddddddddd", "ee", "ffffff", "ggggggggggggg", "asdfghjjjreereeq"];
+
 
 function find(example){
 
